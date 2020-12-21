@@ -1,0 +1,67 @@
+/* TAG SELECTORS */
+body{
+  background-color: #ff9999;
+}
+
+h2{
+  color: #3e4149;
+  padding: 20px;
+}
+
+label{
+  color: #3e4149;
+  padding: 5px;
+  font-weight: bold;
+}
+
+/* CLASS SELECTORS */
+.headingIntro{
+  color: #3e4149;
+  font-size: 3.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.subHeadingIntro{
+  color: #3e4149;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.conti{
+  color: #3e4149;
+  font-weight: bold;
+  text-align: right;
+}
+
+.conti:hover{
+  color: #707070;
+}
+
+.donateButton{
+  font-weight: 500;
+}
+
+.row{
+  padding: 0 20%;
+}
+
+/* ID SELECTORS */
+#intro{
+  padding: 15%;
+}
+
+#donate{
+  padding: 20%;
+  text-align: center;
+}
+
+#payment{
+  padding: 10%;
+  text-align: center;
+}
+
+#details{
+  padding: 5% 20% 5% 20%;
+  text-align: center;
+}
